@@ -1,0 +1,278 @@
+{
+  "mostBuyedItems": [
+    {
+      "id": 0,
+      "img": "/images/01.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M", "L"],
+      "price": 50,
+      "type": "tshirt"
+    },
+    {
+      "id": 1,
+      "img": "/images/09.png",
+      "title": "Yellow T-shirt",
+      "size": ["S", "M", "XXL"],
+      "price": 100,
+      "type": "tshirt"
+    },
+    {
+      "id": 2,
+      "img": "/images/06.png",
+      "title": "Yellow T-shirt",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "price": 200,
+      "type": "tshirt"
+    },
+    {
+      "id": 3,
+      "img": "/images/12.png",
+      "title": "Black T-shirt",
+      "size": ["S ", "M ", "L ", "XL ", "XXL "],
+      "price": 350,
+      "type": "tshirt"
+    }
+  ],
+  "produse": [
+    {
+      "id": 0,
+      "img": "/images/01.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M", "L"],
+      "price": 100,
+      "type": "tshirt"
+    },
+    {
+      "id": 1,
+      "img": "/images/02.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M", "L", "XXL"],
+      "price": 150,
+      "type": "tshirt"
+    },
+    {
+      "id": 2,
+      "img": "/images/03.png",
+      "title": "White T-shirt",
+      "size": ["S", "M", "XL"],
+      "price": 29,
+      "type": "tshirt"
+    },
+    {
+      "id": 3,
+      "img": "/images/04.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M"],
+      "price": 129,
+      "type": "tshirt"
+    },
+    {
+      "id": 4,
+      "img": "/images/05.png",
+      "title": "Blue T-shirt",
+      "size": ["S", "M", "L", "XL"],
+      "price": 49,
+      "type": "tshirt"
+    },
+    {
+      "id": 5,
+      "img": "/images/06.png",
+      "title": "Yellow T-shirt",
+      "size": ["S", "L", "XXL"],
+      "price": 99,
+      "type": "tshirt"
+    },
+    {
+      "id": 6,
+      "img": "/images/07.png",
+      "title": "White T-shirt",
+      "size": ["S", "XXL"],
+      "price": 350,
+      "type": "tshirt"
+    },
+    {
+      "id": 7,
+      "img": "/images/08.png",
+      "title": "White T-shirt",
+      "size": ["S", "M", "L", "XXL"],
+      "price": 149,
+      "type": "tshirt"
+    },
+    {
+      "id": 8,
+      "img": "/images/09.png",
+      "title": "Yellow T-shirt",
+      "size": ["M", "L", "XL", "XXL"],
+      "price": 50,
+      "type": "tshirt"
+    },
+    {
+      "id": 9,
+      "img": "/images/10.png",
+      "title": "White T-shirt",
+      "size": ["S", "M", "XL"],
+      "price": 120,
+      "type": "tshirt"
+    },
+    {
+      "id": 10,
+      "img": "/images/11.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M", "L"],
+      "price": 55,
+      "type": "tshirt"
+    },
+    {
+      "id": 11,
+      "img": "/images/12.png",
+      "title": "Black T-shirt",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "price": 45,
+      "type": "tshirt"
+    },
+    {
+      "id": 12,
+      "img": "/images/13.png",
+      "title": "Green T-shirt",
+      "size": ["XL", "XXL"],
+      "price": 200,
+      "type": "tshirt"
+    },
+    {
+      "id": 13,
+      "img": "/images/14.png",
+      "title": "Black T-shirt",
+      "size": ["S", "XL"],
+      "price": 300,
+      "type": "tshirt"
+    },
+    {
+      "id": 14,
+      "img": "/images/15.png",
+      "title": "White T-shirt",
+      "size": ["S", "M", "XL"],
+      "price": 125,
+      "type": "tshirt"
+    },
+    {
+      "id": 15,
+      "img": "/images/16.png",
+      "title": "Green Sweater",
+      "size": ["S", "M", "L"],
+      "price": 100,
+      "type": "sweater"
+    },
+    {
+      "id": 16,
+      "img": "/images/17.png",
+      "title": "Brown Sweater",
+      "size": ["S", "M", "L", "XXL"],
+      "price": 150,
+      "type": "sweater"
+    },
+    {
+      "id": 17,
+      "img": "/images/18.png",
+      "title": "Blue Sweater",
+      "size": ["S", "M", "XL"],
+      "price": 29,
+      "type": "sweater"
+    },
+    {
+      "id": 18,
+      "img": "/images/19.png",
+      "title": "Orange Sweater",
+      "size": ["S", "M"],
+      "price": 129,
+      "type": "sweater"
+    },
+    {
+      "id": 19,
+      "img": "/images/20.png",
+      "title": "Green Sweater",
+      "size": ["S", "M", "L", "XL"],
+      "price": 49,
+      "type": "sweater"
+    },
+    {
+      "id": 20,
+      "img": "/images/21.png",
+      "title": "Dark Blue Sweater",
+      "size": ["S", "L", "XXL"],
+      "price": 99,
+      "type": "sweater"
+    },
+    {
+      "id": 21,
+      "img": "/images/22.png",
+      "title": "Yellow Sweater",
+      "size": ["S", "XXL"],
+      "price": 350,
+      "type": "sweater"
+    },
+    {
+      "id": 22,
+      "img": "/images/23.png",
+      "title": "Pink Sweater",
+      "size": ["S", "M", "L", "XXL"],
+      "price": 149,
+      "type": "sweater"
+    },
+    {
+      "id": 23,
+      "img": "/images/24.png",
+      "title": "White Sweater",
+      "size": ["M", "L", "XL", "XXL"],
+      "price": 50,
+      "type": "sweater"
+    },
+    {
+      "id": 24,
+      "img": "/images/25.png",
+      "title": "Red Sweater",
+      "size": ["S", "M", "XL"],
+      "price": 120,
+      "type": "sweater"
+    },
+    {
+      "id": 25,
+      "img": "/images/26.png",
+      "title": "Brown Sweater",
+      "size": ["S", "M", "L"],
+      "price": 55,
+      "type": "sweater"
+    },
+    {
+      "id": 26,
+      "img": "/images/27.png",
+      "title": "Blue Sweater",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "price": 45,
+      "type": "sweater"
+    },
+    {
+      "id": 27,
+      "img": "/images/28.png",
+      "title": "Blue Sweater",
+      "size": ["XL", "XXL"],
+      "price": 200,
+      "type": "sweater"
+    },
+    {
+      "id": 28,
+      "img": "/images/29.png",
+      "title": "White Sweater",
+      "size": ["S", "XL"],
+      "price": 300,
+      "type": "sweater"
+    },
+    {
+      "id": 29,
+      "img": "/images/30.png",
+      "title": "Grey Sweater",
+      "size": ["S", "M", "XL"],
+      "price": 125,
+      "type": "sweater"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.card-container {
+  width: 300px;
+  height: 400px;
+  box-shadow: 1px 1px 3px 1px #888888;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn-button {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 0.2rem;
+  padding: 0.5rem;
+}
+.btn-button:hover {
+  background-color: rgb(69, 69, 69);
+  color: white;
+}
+
+.price {
+  font-size: large;
+  align-items: center;
+  margin: 0.2rem;
+  font-weight: 600;
+}
+
+.custom-price-btn {
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card-container img {
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,12 @@
+.footer-container {
+  height: 150px;
+  background-color: rgb(70, 70, 70);
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer-container span {
+  font-size: 1rem;
+}

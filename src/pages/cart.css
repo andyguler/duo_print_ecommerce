@@ -1,0 +1,47 @@
+.cart-card {
+  border: 1px solid gray;
+  padding: 1rem;
+}
+
+.form-container {
+  margin: 1rem;
+  box-shadow: 1px 1px 3px 1px #888888;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  width: 30rem;
+  margin: auto;
+}
+
+.form > li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 20rem;
+}
+
+.form-style {
+  text-align: center;
+}
+
+.form-style h4 {
+  padding: 2rem;
+}
+
+.form button {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+  padding: 0.5rem;
+}
+.form button:hover {
+  background-color: rgb(52, 50, 50);
+  color: white;
+}

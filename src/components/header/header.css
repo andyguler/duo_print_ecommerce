@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Bebas;
+  src: url("https://fonts.googleapis.com/css2?family=Kite+One&display=swap");
+}
+
+.hamburger {
+  border: none !important;
+  outline: transparent !important;
+}
+
+.cart-qty-style {
+  position: absolute;
+  top: 0;
+  right: -7px;
+  border: 1px solid red;
+  border-radius: 50%;
+  background-color: red;
+  width: 1rem;
+  height: 1rem;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
